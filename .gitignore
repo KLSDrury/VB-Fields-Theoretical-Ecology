@@ -1,0 +1,5 @@
+mats/
+figs/
+*.fig
+*.asv
+*.mat
